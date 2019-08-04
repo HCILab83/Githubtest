@@ -1,9 +1,2 @@
-Binh code
-
-
-Lamp code
-Binh code 2
-Lam code tiep
-
-Ban cuoi cung
-
+Lampx xoa toan bo ma nguon
+Lam chinh suwa tren branch
