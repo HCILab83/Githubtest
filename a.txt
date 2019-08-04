@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-Xoa het tu lampx
-=======
->>>>>>> cb4a2377bdabf4c5d564b64b54b19d48f9046bc7
+Binh code
